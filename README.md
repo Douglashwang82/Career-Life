@@ -1,6 +1,6 @@
 # Career-Life
 **Douglas Hwang**
 
-##Education
+## Education
 California State University - East Bay
 	Master of Computer Science
